@@ -1,0 +1,14 @@
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Environment files
+.env
+
+# Mac system files
+.DS_Store
+
+# Node or package stuff (if using CLI)
+node_modules/
