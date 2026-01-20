@@ -49,6 +49,7 @@ This project is a **Dataverse-backed Power Platform solution** that demonstrates
 ## Screenshots
 ![Lead Form](screenshots/powerapps/lead-form.png)
 ![Lead Gallery](screenshots/powerapps/lead-gallery.png)
+![Power Automate Tests](screenshots/powerautomate/power-automate-tests.png)
 ![Power Automate Flow](screenshots/powerautomate/lead-notification-flow.png)
 ![Power BI Dashboard](screenshots/powerbi/campaign-dashboard.png)
 
